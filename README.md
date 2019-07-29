@@ -1,2 +1,2 @@
 # Datacamp-Tuberculosis-Prevalence
-Sample oheatmap of tuberculosis prevalence
+Sample heatmap of tuberculosis prevalence
